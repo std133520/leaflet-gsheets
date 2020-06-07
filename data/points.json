@@ -13,6 +13,13 @@
    "location": "Bozeman",
    "level": "Local"
  },
+  {
+   "lat": 41,
+   "long": -114,
+   "category": "Restaurant",
+   "location": "Bozeman",
+   "level": "Local"
+ },
  {
    "lat": 34,
    "long": -108,
