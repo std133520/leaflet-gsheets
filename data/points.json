@@ -7,13 +7,6 @@
    "level": "chain"
  },
  {
-   "lat": 40,
-   "long": -116,
-   "category": "Restaurant",
-   "location": "Bozeman",
-   "level": "Local"
- },
-  {
    "lat": 41,
    "long": -114,
    "category": "Restaurant",
