@@ -22,7 +22,7 @@ window.addEventListener("DOMContentLoaded", init);
 
 // Create a new Leaflet map centered on the continental US
 //var map = L.map("map").setView([40, -100], 4);
-var map = L.map("map").locate({setView: true, maxZoom: 4});
+var map = L.map("map").locate({setView: true, maxZoom: 12});
 
 
 
